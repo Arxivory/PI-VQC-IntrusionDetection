@@ -2,6 +2,7 @@
 
 ## A Hybrid Quantum-Classical Approach via IBM Qiskit
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k3qWls2NLjX-xKvWPJAfDbXn9ymmPf2Y?usp=sharing)
 ### 🏆 Champion Project – Quantum Computing Society of the Philippines XQubit Technical Applications Competition
 
 ## Abstract
